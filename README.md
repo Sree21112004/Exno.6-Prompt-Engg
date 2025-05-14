@@ -124,8 +124,6 @@ pie
     "Claude": 2.10
 ```
 
-![image](https://github.com/user-attachments/assets/613697b8-bb52-468a-8f81-1df66472a754)
-
 ---
 
 ### Feature Comparison
