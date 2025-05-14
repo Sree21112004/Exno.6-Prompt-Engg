@@ -1,7 +1,7 @@
 # **Experiment No:** 6 AI Model Comparison Experiment  
  
 **Date:** `14/05/2005`  
-**Register No:** `Your_ID`  
+**Register No:** `212222040163`  
 
 ---
 
@@ -78,7 +78,7 @@ responses = compare_ai_models("Explain quantum computing in simple terms.")
 print(responses)
 ```
 
-## 4. Results
+## 4. **Output**
 
 ### Response Comparison Table
 
@@ -132,3 +132,6 @@ pie
 | Cost per 1M     | $1.50  | $0.50  | $15.00 |
 | Best For        | Coding | Quick Answers | Long Explanations |
 
+
+## Result: 
+`The corresponding Prompt is executed successfully
