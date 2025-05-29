@@ -1,6 +1,6 @@
 # **Experiment No:** 6 AI Model Comparison Experiment  
  
-**Date:** `14/05/2005`  
+**Date:** `14/05/2025`  
 **Register No:** `212222060252`  
 
 ---
